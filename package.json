@@ -15,7 +15,7 @@
     "locus": "^2.0.1",
     "pg": "^8.3.3",
     "requirements": "^1.4.1",
-    "supertest": "^3.3.0"
+    "supertest": "^3.4.2"
   },
   "description": ""
 }
